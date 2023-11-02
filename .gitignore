@@ -1,4 +1,6 @@
 # sphinx build directories
+venv
+
 _build/
 
 # dotfiles
